@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-**Senior Software Engineer | React, Vue, Angular, Node, JavaScript, TypeScript, Python, AWS Specialist | 15+ Years Experience**
+**Senior Software Engineer | React, Vue, Angular, Node, JavaScript, TypeScript, Python, AWS Specialist | 9+ Years Experience**
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 💼 Experience
 
-With 15+ years of experience, I have designed, developed, and maintained enterprise-grade applications across multiple domains. My expertise includes building **scalable full-stack applications**, optimizing **performance**, and leading teams to deliver high-quality software.
+With 9+ years of experience, I have designed, developed, and maintained enterprise-grade applications across multiple domains. My expertise includes building **scalable full-stack applications**, optimizing **performance**, and leading teams to deliver high-quality software.
 
 - Designed and implemented **highly performant MERN stack applications** used by thousands of users daily.  
 - Developed **Python backend services** with RESTful APIs and integrated them with frontend clients.  
